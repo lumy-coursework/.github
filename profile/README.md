@@ -4,6 +4,8 @@
 
 A special place to save / archive all of my coursework ˙✧˖°📷 ༘ ⋆｡˚
 
+---
+
 <h3 align="left">🫛 Available content...</h3>
 
 - 4th Semester
