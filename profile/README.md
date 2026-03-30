@@ -18,6 +18,7 @@ A special place to save / archive all of my coursework ˙✧˖°📷 ༘ ⋆｡�
 
 - 3rd Semester
   - [Machine Learning](https://github.com/lumy-coursework/machine-learning)
+  - [Data Mining](https://github.com/lumy-coursework/data-mining)
   - [Object Oriented Programming](https://github.com/lumy-coursework/object-oriented-programming)
   - ... (are still ongoing)
 
