@@ -12,6 +12,8 @@ A special place to save / archive all of my coursework ˙✧˖°📷 ༘ ⋆｡�
   - [Deep Learning](https://github.com/lumy-coursework/deep-learning)
   - [Web Programming](https://github.com/luminolous/wippie) (this one is on my personal account ₍^. .^₎⟆ )
   - [Natural Language Proccessing](https://github.com/lumy-coursework/natural-language-processing)
+  - [Computer Graphics](https://github.com/lumy-coursework/computer-graphics)
+  - [Digital Image Processing](https://github.com/lumy-coursework/digital-image-processing)
   - ... (and others are still ongoing)
 
 - 3rd Semester
