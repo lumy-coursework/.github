@@ -22,4 +22,8 @@ A special place to save / archive all of my coursework ˙✧˖°📷 ༘ ⋆｡�
   - [Object Oriented Programming](https://github.com/lumy-coursework/object-oriented-programming)
   - ... (are still ongoing)
 
+- 2nd Semester
+  - [Graph Theory](https://github.com/lumy-coursework/graph-theory)
+  - ... (still ongoing)
+
 ---
