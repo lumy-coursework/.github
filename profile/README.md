@@ -14,6 +14,7 @@ A special place to save / archive all of my coursework ˙✧˖°📷 ༘ ⋆｡�
   - [Natural Language Proccessing](https://github.com/lumy-coursework/natural-language-processing)
   - [Computer Graphics](https://github.com/lumy-coursework/computer-graphics)
   - [Digital Image Processing](https://github.com/lumy-coursework/digital-image-processing)
+  - [Software Development and Design Concepts](https://github.com/lumy-coursework/sddc)
   - ... (and others are still ongoing)
 
 - 3rd Semester
