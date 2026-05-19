@@ -1,8 +1,8 @@
-<p align="left">
+<!-- <p align="left">
   <img src="https://media.tenor.com/EEbyku4nU8gAAAAi/rimuru-spin.gif" width="240" alt="my cute banner">
 </p>
 
-A special place to save / archive all of my coursework ˙✧˖°📷 ༘ ⋆｡˚
+A special place to save / archive all of my coursework ˙✧˖°📷 ༘ ⋆｡˚ -->
 
 ---
 
