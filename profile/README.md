@@ -37,4 +37,4 @@ A special place to save / archive all of my coursework ˙✧˖°📷 ༘ ⋆｡�
 **Self-learning**
 
 - Programming Language
-  - [Rust](https://github.com/lumy-coursework/rust-advanture)
+  - [Rust](https://github.com/lumy-coursework/rust-adventure)
