@@ -2,11 +2,16 @@
   <img src="https://media.tenor.com/EEbyku4nU8gAAAAi/rimuru-spin.gif" width="240" alt="my cute banner">
 </p>
 
-A special place to save / archive all of my coursework ˙✧˖°📷 ༘ ⋆｡˚ -->
+A special place to save / archive all of my coursework ˙✧˖°📷 ༘ ⋆｡˚
+
+---
+-->
+
+<h3 align="left">🫛 Available content...</h3>
 
 ---
 
-<h3 align="left">🫛 Available content...</h3>
+**College**
 
 - 4th Semester
   - [Deep Learning](https://github.com/lumy-coursework/deep-learning)
@@ -28,3 +33,7 @@ A special place to save / archive all of my coursework ˙✧˖°📷 ༘ ⋆｡�
   - ... (still ongoing)
 
 ---
+
+**Self-learning**
+
+- Test
