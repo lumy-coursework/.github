@@ -13,6 +13,12 @@ A special place to save / archive all of my coursework ˙✧˖°📷 ༘ ⋆｡�
 
 **College**
 
+- 5th Semester
+  - [Robotics](https://github.com/lumy-coursework/robotics)
+  - [Intelligent Games](https://github.com/lumy-coursework/intelligent-games)
+  - [Information Visualization](https://github.com/lumy-coursework/information-visualization)
+  - [Computer Vision](https://github.com/lumy-coursework/computer-vision)
+
 - 4th Semester
   - [Deep Learning](https://github.com/lumy-coursework/deep-learning)
   - [Web Programming](https://github.com/luminolous/wippie)
