@@ -18,6 +18,7 @@ A special place to save / archive all of my coursework ˙✧˖°📷 ༘ ⋆｡�
   - [Intelligent Games](https://github.com/lumy-coursework/intelligent-games)
   - [Information Visualization](https://github.com/lumy-coursework/information-visualization)
   - [Computer Vision](https://github.com/lumy-coursework/computer-vision)
+  - [Biomedical Computation](https://github.com/lumy-coursework/biomedical-computation)
 
 - 4th Semester
   - [Deep Learning](https://github.com/lumy-coursework/deep-learning)
